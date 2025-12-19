@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: 41-SB_MS_ADMIN_SERVER-App
+server:
+  port: 1111
